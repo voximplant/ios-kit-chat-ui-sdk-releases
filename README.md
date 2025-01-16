@@ -16,7 +16,7 @@ Supported architectures:
 
 More information can be found in [Apple Developer documentation](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app)
 
-## Add Voximplant Kit Chat SDK to your package
+## Add Voximplant Kit Chat UI SDK to your package
 
 To add Voximplant Kit Chat UI iOS SDK as a dependency of your package, declare it in `dependencies` section of your `Package.swift`
 
