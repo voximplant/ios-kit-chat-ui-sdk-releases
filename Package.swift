@@ -13,14 +13,14 @@ let package = Package(
         .package(
             name: "VoximplantKitChat",
             url: "https://github.com/voximplant/ios-kit-chat-sdk-releases.git",
-            .exact("1.2.0")
+            .exact("1.2.1")
         )
     ],
     targets: [
         .binaryTarget(
             name: "VoximplantKitChatUI",
-            url: "https://voximplant-releases.s3.eu-central-1.amazonaws.com/ios-kit-chat/ui/1.4.0/swiftpm/VoximplantKitChatUI.zip",
-            checksum: "f04d59abe80fa499f4b4a41ed95b9f2bacf8eb9a28c4c9f20d8d9c92e8cda740"),
+            url: "https://voximplant-releases.s3.eu-central-1.amazonaws.com/ios-kit-chat/ui/1.4.1/swiftpm/VoximplantKitChatUI.zip",
+            checksum: "404570097db0aed77c4d9a8a44865d83ff461fe95604fdbaa1387a577e9afbd6"),
         .target(
             name: "VoximplantKitChatUITarget",
             dependencies: [
