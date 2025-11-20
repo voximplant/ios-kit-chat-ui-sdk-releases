@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VoximplantKitChatUI",
-            url: "https://voximplant-releases.s3.eu-central-1.amazonaws.com/ios-kit-chat/ui/1.4.1/swiftpm/VoximplantKitChatUI.zip",
-            checksum: "404570097db0aed77c4d9a8a44865d83ff461fe95604fdbaa1387a577e9afbd6"),
+            url: "https://voximplant-releases.s3.eu-central-1.amazonaws.com/ios-kit-chat/ui/1.5.0/swiftpm/VoximplantKitChatUI.zip",
+            checksum: "971d281972718b72aae3913636a40ceb4ec311c98df30f4b1019bfb46fde1b9a"),
         .target(
             name: "VoximplantKitChatUITarget",
             dependencies: [

@@ -22,6 +22,6 @@ To add Voximplant Kit Chat UI iOS SDK as a dependency of your package, declare i
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/voximplant/ios-kit-chat-ui-sdk-releases.git", .upToNextMinor(from: "1.0.1"))
+    .package(url: "https://github.com/voximplant/ios-kit-chat-ui-sdk-releases.git", .upToNextMinor(from: "1.5.0"))
 ]
 ```
